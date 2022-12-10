@@ -1,0 +1,35 @@
+
+.maindiv{
+}
+.button{
+  border-radius: 80px;
+  height: 40px;
+  width: 70px;
+  background-color: white;
+  
+}
+.screen{
+  border-radius: 15px;
+  height: 100px;
+  width: 660px;
+  border: None;
+  color:#1E90FF;
+}
+th{
+  border-radius: 15px;
+  border: None;
+}
+td{
+  text-size-adjust: 50px;
+  border-radius: 100000000000px;
+  border: None;
+}
+table{
+  border-radius: 15px;
+}
+input[type="button"] {
+  font-size:20px;
+}
+input[type="button"]:hover{
+  background-color: #DCDCDC;
+}
